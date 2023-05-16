@@ -1,16 +1,27 @@
 body{
     scroll-behavior: smooth;
+    background-color: #95B2A8;
 }
 .fist {
-    font-size: 90px;
+    font-size: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0 auto;
-    max-width: 1446px;
+    max-width: 850px;
     color: #96CDD0;
     padding: 10px;
     background-color: #5B6866;
     border-radius: 19px;
     text-align: center;
+}
+.osnovd{
+    display: flex;
+    max-width: 1500px;
+    margin: 70px auto 0;
+    justify-content: space-between;
+}
+.texto{
+    max-width: 600px;
+    margin: 30px 10px auto;
 }
 .zakolov{
     font-size: 20px;
@@ -18,25 +29,8 @@ body{
     border-radius: 19px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #96CDD0;
-    margin: 0 0 61px;
-    padding: 25px 60px;
-}
-.osnovd{
-    display: flex;
-    max-width: 1763px;
-    width: 100%;
-    margin: 60px auto 0;
-    justify-content: space-between;
-}
-.img{
-    max-width: 694px;
-}
-.img > img{
-    width: 100%;
-    border-radius: 19px;
-}
-.texto{
-    max-width: 873px;
+    margin: 0 0 180px;
+    padding: 25px 30px;
 }
 .spis{
     font-size: 20px;
@@ -48,15 +42,23 @@ body{
     width: 100%;
 }
 .spis > li{
-    padding: 0 0 0 24px;
+    padding: 8px 15px;
 }
 .spis a{
     color: #96CDD0;
     text-decoration: none;
 }
+.img{
+    max-width: 694px;
+}
+.img > img{
+    width: 100%;
+    border-radius: 19px;
+}
+
 .obsetsvo1{
     margin: 55px auto 0;
-    max-width: 1600px; 
+    max-width: 1000px; 
 }
 #obsetsvo{
     font-size: 30px;
@@ -65,7 +67,6 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 8px 31px;
-    text-align: center;
 }
 .pa1{
     font-size: 20px;
@@ -77,7 +78,7 @@ body{
 }
 .filosofi1{
     margin: 55px auto 0;
-    max-width: 1600px; 
+    max-width: 1000px; 
 }
 #filosofi{
     font-size: 30px;
@@ -86,7 +87,6 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 8px 31px;
-    text-align: center;
 }
 .pa2{
     font-size: 20px;
@@ -98,7 +98,7 @@ body{
 }
 .literat1{
     margin: 55px auto 0;
-    max-width: 1600px;
+    max-width: 1000px;
 }
 #literat{
     font-size: 30px;
@@ -107,7 +107,6 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 8px 31px;
-    text-align: center;
 }
 .pa3{
     font-size: 20px;
@@ -119,7 +118,7 @@ body{
 }
 .psiholog1{
     margin: 55px auto 0;
-    max-width: 1600px;
+    max-width: 1000px;
 }
 #psiholog{
     font-size: 30px;
@@ -128,7 +127,6 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 8px 31px;
-    text-align: center;
 }
 .pa4{
     font-size: 20px;
@@ -140,7 +138,7 @@ body{
 }
 .moe1{
     margin: 55px auto 0;
-    max-width: 1600px;
+    max-width: 1000px;
 }
 #moe{
     font-size: 30px;
@@ -149,7 +147,6 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 8px 31px;
-    text-align: center;
 }
 .pa5{
     font-size: 20px;
@@ -158,4 +155,31 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 13px 21px;
+}
+.istoch1{
+    font-size: 12px;
+    background-color: #5B6866;
+    border-radius: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #080E46;
+    max-width: 700px;
+}
+.istoch{
+    font-size: 12px;
+    background-color: #5B6866;
+    border-radius: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #080E46;
+    padding: 3px 5px;
+    display: flex;
+   
+}
+.BBA{
+    font-size: 12px;
+    background-color: #5B6866;
+    border-radius: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #080E46;
+    max-width: 170px;
+    padding: 5px 5px;
 }
