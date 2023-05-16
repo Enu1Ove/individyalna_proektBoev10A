@@ -67,6 +67,8 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 8px 31px;
+    display: inline-block;
+    margin: 15px auto;
 }
 .pa1{
     font-size: 20px;
@@ -75,6 +77,8 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 13px 21px;
+    display: inline-block;
+    margin: 15px auto;
 }
 .filosofi1{
     margin: 55px auto 0;
@@ -87,6 +91,8 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 8px 31px;
+    display: inline-block;
+    margin: 15px auto;
 }
 .pa2{
     font-size: 20px;
@@ -95,6 +101,8 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 13px 21px;
+    display: inline-block;
+    margin: 15px auto;
 }
 .literat1{
     margin: 55px auto 0;
@@ -107,6 +115,8 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 8px 31px;
+    display: inline-block;
+    margin: 15px auto;
 }
 .pa3{
     font-size: 20px;
@@ -115,6 +125,8 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 13px 21px;
+    display: inline-block;
+    margin: 15px auto;
 }
 .psiholog1{
     margin: 55px auto 0;
@@ -127,6 +139,8 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 8px 31px;
+    display: inline-block;
+    margin: 15px auto;
 }
 .pa4{
     font-size: 20px;
@@ -135,6 +149,8 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 13px 21px;
+    display: inline-block;
+    margin: 15px auto;
 }
 .moe1{
     margin: 55px auto 0;
@@ -147,6 +163,8 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 8px 31px;
+    display: inline-block;
+    margin: 15px auto;
 }
 .pa5{
     font-size: 20px;
@@ -155,31 +173,37 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
     padding: 13px 21px;
+    display: inline-block;
+    margin: 15px auto;
 }
 .istoch1{
-    font-size: 12px;
-    background-color: #5B6866;
-    border-radius: 19px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #080E46;
-    max-width: 700px;
+    display: flex;
+    justify-content: end;
 }
 .istoch{
     font-size: 12px;
     background-color: #5B6866;
-    border-radius: 19px;
+    border-radius: 5px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
-    padding: 3px 5px;
-    display: flex;
-   
+    display: inline-block;
+}
+.spis2{
+    font-size: 12px;
+    background-color: #5B6866;
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #080E46;
+    display: inline-block;
 }
 .BBA{
     font-size: 12px;
     background-color: #5B6866;
-    border-radius: 19px;
+    border-radius: 5px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #080E46;
-    max-width: 170px;
-    padding: 5px 5px;
+    padding: 5px 3px;
+    margin: 50px auto;
+    display: inline-block;
+    margin: 15px auto;
 }
